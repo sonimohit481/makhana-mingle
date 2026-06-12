@@ -1,5 +1,3 @@
-"use client";
-
 import type { FooterSection } from "@/types";
 
 interface FooterProps {

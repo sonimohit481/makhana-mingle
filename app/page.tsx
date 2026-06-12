@@ -92,12 +92,13 @@ export default function Home() {
               </div>
             </div>
 <div className="benefits-img">
-              <Image 
-                src="https://lh3.googleusercontent.com/aida-public/AB6AXuAO1a46ErYdKHssqAEMk_z8nt2vtxAp8hP_dPtLEMGe1SaBdYQ1scCZB722MAiCOeQmbxMYVEmRH5htVKCRnAtDsLmbuGlAE7YjpEJKAb1XKaUxQmPqOKPvJQ7ikiJMMYKo7fXz-zH1mXHBjOEsC0SDtCOH0C-UBx49QemV6hIiZuB05pla3MFEbjVefGSG0uzxcljqbQ8L78QTkKgivIujD3mzEI5WaoIuRsu-ss_Dj_RFHOadhsiTKyty_GE6PaY2bqBh5JTHU1k"
-                alt="Makhana pond cultivation"
-                width={500}
-                height={600}
-              />
+<Image 
+  src="https://lh3.googleusercontent.com/aida-public/AB6AXuAO1a46ErYdKHssqAEMk_z8nt2vtxAp8hP_dPtLEMGe1SaBdYQ1scCZB722MAiCOeQmbxMYVEmRH5htVKCRnAtDsLmbuGlAE7YjpEJKAb1XKaUxQmPqOKPvJQ7ikiJMMYKo7fXz-zH1mXHBjOEsC0SDtCOH0C-UBx49QemV6hIiZuB05pla3MFEbjVefGSG0uzxcljqbQ8L78QTkKgivIujD3mzEI5WaoIuRsu-ss_Dj_RFHOadhsiTKyty_GE6PaY2bqBh5JTHU1k"
+  alt="Makhana pond cultivation"
+  width={500}
+  height={600}
+  style={{ width: '500px', height: 'auto' }}
+/>
             </div>
           </div>
         </section>
